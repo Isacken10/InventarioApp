@@ -1,0 +1,14 @@
+C:\Users\pchoez\Documents\net\Inventario\InventarioApp\bin\Debug\net10.0\InventarioApp.exe
+C:\Users\pchoez\Documents\net\Inventario\InventarioApp\bin\Debug\net10.0\InventarioApp.deps.json
+C:\Users\pchoez\Documents\net\Inventario\InventarioApp\bin\Debug\net10.0\InventarioApp.runtimeconfig.json
+C:\Users\pchoez\Documents\net\Inventario\InventarioApp\bin\Debug\net10.0\InventarioApp.dll
+C:\Users\pchoez\Documents\net\Inventario\InventarioApp\bin\Debug\net10.0\InventarioApp.pdb
+C:\Users\pchoez\Documents\net\Inventario\InventarioApp\obj\Debug\net10.0\InventarioApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pchoez\Documents\net\Inventario\InventarioApp\obj\Debug\net10.0\InventarioApp.AssemblyInfoInputs.cache
+C:\Users\pchoez\Documents\net\Inventario\InventarioApp\obj\Debug\net10.0\InventarioApp.AssemblyInfo.cs
+C:\Users\pchoez\Documents\net\Inventario\InventarioApp\obj\Debug\net10.0\InventarioApp.csproj.CoreCompileInputs.cache
+C:\Users\pchoez\Documents\net\Inventario\InventarioApp\obj\Debug\net10.0\InventarioApp.dll
+C:\Users\pchoez\Documents\net\Inventario\InventarioApp\obj\Debug\net10.0\refint\InventarioApp.dll
+C:\Users\pchoez\Documents\net\Inventario\InventarioApp\obj\Debug\net10.0\InventarioApp.pdb
+C:\Users\pchoez\Documents\net\Inventario\InventarioApp\obj\Debug\net10.0\InventarioApp.genruntimeconfig.cache
+C:\Users\pchoez\Documents\net\Inventario\InventarioApp\obj\Debug\net10.0\ref\InventarioApp.dll
